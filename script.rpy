@@ -44,6 +44,7 @@ label start:
     # images directory to show it.
 
     scene bg room
+    image bg room = "images/room.png"
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -53,10 +54,10 @@ label start:
 
     # These display lines of dialogue.
 
-    protoChar "WOAH"
+    protoChar "Oh hai!"
 
-    protoChar "HOLY SHIT"
-    protoChar "I'M VERY VERY HAPPY"
+    protoChar "I've been waiting for you."
+    protoChar "*nuzzles you"
     protoChar "HAHA"
     protoChar ":)"
     protoChar "SO FUNNY"
