@@ -64,11 +64,11 @@ label start:
 
     show protoChar sad
 
-    protoChar "OH FUCK"
-    protoChar "OH FUCK"
-    protoChar "OH SHIT"
-    protoChar "I'M SAD NOW"
-    protoChar "DAMNIT I AM CRYING NOW"
+    protoChar "GONNA CRY?"
+    protoChar "RUGGLE YOUR PANTS MAYBE?"
+    protoChar "MAYBE BUG AND OISDAN?"
+    protoChar "www.9front.org"
+    protoChar "DEHUMANIZE YOURSELF AND FACE TO BLOODSHED"
     protoChar ":("
 
 
